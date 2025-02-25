@@ -485,7 +485,7 @@ MonoBehaviour:
   - {fileID: 135746, guid: aa64b9ae639024c5097e12b27ac1d84c, type: 3}
   parentToSpawnFrom: {fileID: 389749727}
   scaleFactor: 1
-  onSpawned:
+  onSpawnedGameObject:
     _PersistentCalls:
     - _Target: {fileID: 389749728}
       _MemberName: AddForce
@@ -539,9 +539,9 @@ MonoBehaviour:
       - _Type: 7
         _Int: 0
         _String: 
-        _X: -0.2
-        _Y: -0.2
-        _Z: -0.2
+        _X: 0
+        _Y: 0
+        _Z: 0
         _W: 0
         _Object: {fileID: 0}
       - _Type: 7
@@ -561,6 +561,8 @@ MonoBehaviour:
         _Z: 0
         _W: 0
         _Object: {fileID: 0}
+  onSpawnedRigidBody:
+    _PersistentCalls: []
 --- !u!4 &389749727
 Transform:
   m_ObjectHideFlags: 0
@@ -1506,7 +1508,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11c40f524f89eb6439169dc8ed23b32a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delay: 2
   afterDelay:
     _PersistentCalls:
     - _Target: {fileID: 1406669450}
@@ -1834,6 +1835,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1481833365}
   - component: {fileID: 1481833364}
+  - component: {fileID: 1481833366}
   m_Layer: 0
   m_Name: Console
   m_TagString: Untagged
@@ -1868,6 +1870,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1481833366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1481833363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9576ebd90663fcf4eaec4697671e0e83, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trueEvent:
+    _PersistentCalls: []
+  falseEvent:
+    _PersistentCalls: []
+  toggle: 0
 --- !u!1 &1582126432
 GameObject:
   m_ObjectHideFlags: 0
@@ -2817,6 +2836,133 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!1001 &2096800845
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 375830651213048600, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1498557633947399085, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_Name
+      value: SM_props_candle_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.346
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.884
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2269852243799976215, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1498557633947399085, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2096800847}
+  m_SourcePrefab: {fileID: 100100000, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+--- !u!1 &2096800846 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1498557633947399085, guid: d0e28842d93f5db42b0c0bb70755da8c, type: 3}
+  m_PrefabInstance: {fileID: 2096800845}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2096800847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2096800846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dcd484ea2ae62640a45a1ed4e516c85, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tweenName: Tween 1
+  objectToTween: {fileID: 2096800846}
+  selectedComponentId: 0
+  selectedFieldId: 0
+  selectedComponent: {fileID: 0}
+  selectedFieldName: 
+  from: {x: 0, y: 0, z: 0}
+  fromCheck: 0
+  tweenType: 0
+  path: 0
+  rotateAroundAxis: 0
+  axis: 0
+  degrees: 360
+  space: 0
+  easeType: 16
+  additive: 1
+  target: {x: 0, y: 1, z: 0}
+  vector2Value: {x: 0, y: 0}
+  value: 0
+  color: {r: 0, g: 0, b: 0, a: 0}
+  alpha: 0
+  orientToPath: 0
+  startPoint: {x: 0, y: 0, z: 0}
+  startControlPoint: {x: 0, y: 0, z: 0}
+  endPoint: {x: 0, y: 0, z: 0}
+  endControlPoint: {x: 0, y: 0, z: 0}
+  pathPoints: []
+  speed: 2
+  duration: 2
+  totalDuration: 2
+  playOnAwake: 1
+  ignoreTimeScale: 0
+  onStart:
+    _PersistentCalls: []
+  onUpdate:
+    _PersistentCalls: []
+  infiniteLoop: 1
+  loops: 2
+  onComplete:
+    _PersistentCalls: []
+  onLoopsComplete:
+    _PersistentCalls: []
+  loopType: 2
+  tweenId: 0
+  loopsPlayed: 0
+  showEvents: 0
 --- !u!1 &2106658312
 GameObject:
   m_ObjectHideFlags: 0
@@ -3182,3 +3328,4 @@ SceneRoots:
   - {fileID: 414641320}
   - {fileID: 335901673}
   - {fileID: 1688628869}
+  - {fileID: 2096800845}

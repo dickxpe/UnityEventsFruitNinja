@@ -8,6 +8,7 @@ using System;
 using UnityEditor.Callbacks;
 using System.Linq;
 using UltEvents;
+using TMPro;
 
 namespace EventVisualizer.Base
 {
@@ -73,15 +74,25 @@ namespace EventVisualizer.Base
 
 			do
 			{
+
+
 				SerializedProperty persistentCalls;
 				bool isUltEvent = false;
 
 				if (iterator.type.Contains("Event"))
 				{
-					if ((int)iterator.FindPropertyRelative("_PersistentCalls.Array.size").boxedValue > 0)
+					if (caller.GetType() != typeof(TextMeshProUGUI))
 					{
-						persistentCalls = iterator.FindPropertyRelative("_PersistentCalls.Array");
-						isUltEvent = true;
+						if ((int)iterator.FindPropertyRelative("_PersistentCalls.Array.size").boxedValue > 0)
+						{
+							persistentCalls = iterator.FindPropertyRelative("_PersistentCalls.Array");
+							isUltEvent = true;
+						}
+
+						else
+						{
+							persistentCalls = null;
+						}
 					}
 					else
 					{
@@ -121,6 +132,7 @@ namespace EventVisualizer.Base
 					else if (iterator.depth > level) hasData = RecursivelyExtractEvents(calls, caller, iterator, iterator.depth);
 				}
 			}
+
 			while (hasData);
 			return false;
 		}

@@ -1,0 +1,13 @@
+{
+    "name": "be.zebugames.gameflow",
+    "version": "1.0.0",
+    "displayName": "Game Flow Package",
+    "description": "Game Flow components with events and actions",
+    "unity": "6000.0",
+    "dependencies": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/dickxpe/GameFlow.git"
+    }
+  }

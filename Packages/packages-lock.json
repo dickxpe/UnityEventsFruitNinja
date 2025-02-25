@@ -1,10 +1,24 @@
 {
   "dependencies": {
+    "be.zebugames.gameflow": {
+      "version": "https://github.com/dickxpe/GameFlow.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ee12e400675381d313bac6bb5f0a71722d68767f"
+    },
     "com.kybernetik.ultevents": {
       "version": "file:com.kybernetik.ultevents",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
+    },
+    "com.mefistofiles.unity-event-visualizer": {
+      "version": "https://github.com/MephestoKhaan/UnityEventVisualizer.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "333052e19ea5df032d5338a5af8162d8530605c9"
     },
     "com.unity.ai.navigation": {
       "version": "2.0.3",

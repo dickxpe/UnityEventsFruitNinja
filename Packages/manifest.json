@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "be.zebugames.gameflow": "https://github.com/dickxpe/GameFlow.git",
+    "com.mefistofiles.unity-event-visualizer": "https://github.com/MephestoKhaan/UnityEventVisualizer.git",
     "com.unity.ai.navigation": "2.0.3",
     "com.unity.cinemachine": "2.10.1",
     "com.unity.collab-proxy": "2.7.1",

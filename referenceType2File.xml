@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>1e92eca8d05a11441886c68ffc67f7aa</guid>
+    <fileName>Assets/Scripts/Game.cs</fileName>
+    <timeStamp>2025-02-19T21:34:50.5930736+01:00</timeStamp>
+    <typeFullName>
+      <string>Game</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e4a01b9184ba6f41a977ffe750cfe03</guid>
+    <fileName>Assets/EventVisualizer/Demo/CustomEventTest.cs</fileName>
+    <timeStamp>2020-06-03T12:29:20+02:00</timeStamp>
+    <typeFullName>
+      <string>CustomEventTest</string>
+      <string>CustomComplexEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f508ed9fb109b2744b2aa2846b607faf</guid>
+    <fileName>Assets/EventVisualizer/Demo/ScriptableObjectEventTest.cs</fileName>
+    <timeStamp>2020-06-03T12:29:25+02:00</timeStamp>
+    <typeFullName>
+      <string>ScriptableObjectEventTest</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>24716a188674d4449a2ec3ca3f5fc46c</guid>
+    <fileName>Assets/EventVisualizer/Editor/EdgeGUI.cs</fileName>
+    <timeStamp>2024-04-19T10:20:24+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EdgeGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57a57526436160744ba47854e093c284</guid>
+    <fileName>Assets/EventVisualizer/Editor/EdgeTriggersTracker.cs</fileName>
+    <timeStamp>2020-06-03T12:29:21+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EdgeTriggersTracker</string>
+      <string>EventVisualizer.Base.EdgeTriggersTracker+EdgeTrigger</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>740582e9454097243a1e7bb1aa2e503f</guid>
+    <fileName>Assets/EventVisualizer/Editor/EditorZoomArea.cs</fileName>
+    <timeStamp>2020-06-03T12:29:22+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EditorZoomArea</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b9a31c3ec17359c4184082738f092498</guid>
+    <fileName>Assets/EventVisualizer/Editor/EventCall.cs</fileName>
+    <timeStamp>2024-04-24T11:41:04+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EventCall</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a48afff5ab5b4244f86f43a26d925a16</guid>
+    <fileName>Assets/EventVisualizer/Editor/EventsGraph.cs</fileName>
+    <timeStamp>2024-04-24T11:41:51+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EventsGraph</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d0a9d505156c000439f4832d50c68d7f</guid>
+    <fileName>Assets/EventVisualizer/Editor/EventsGraphGUI.cs</fileName>
+    <timeStamp>2020-06-03T12:29:24+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EventsGraphGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>29ac7234bb09f2f4d8dafebd9faacc56</guid>
+    <fileName>Assets/EventVisualizer/Editor/EventsGraphWindow.cs</fileName>
+    <timeStamp>2024-11-21T12:37:11+01:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EventsGraphWindow</string>
+      <string>EventVisualizer.Base.EventsGraphWindow+SavedPrefBool</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f765f9e5d63c890448d227f118754401</guid>
+    <fileName>Assets/EventVisualizer/Editor/EventsVisualizer.cs</fileName>
+    <timeStamp>2024-04-24T11:09:21+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.EventsFinder</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82c731ab640f84c418a051295fc47a71</guid>
+    <fileName>Assets/EventVisualizer/Editor/FindInGraphButton.cs</fileName>
+    <timeStamp>2020-06-03T12:29:22+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.FindInGraphButton</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e15846c0f71123d4e8406b6a6a30b732</guid>
+    <fileName>Assets/EventVisualizer/Editor/NodeData.cs</fileName>
+    <timeStamp>2020-06-03T12:29:25+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.NodeData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>387c6d86b11d7d241a2da4a68b1dd9a5</guid>
+    <fileName>Assets/EventVisualizer/Editor/NodeGUI.cs</fileName>
+    <timeStamp>2024-03-28T15:33:06+01:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.NodeGUI</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a58e766eeacbb249a6930fa9cef2619</guid>
+    <fileName>Assets/EventVisualizer/Editor/RectExtensions.cs</fileName>
+    <timeStamp>2020-06-03T12:29:21+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Base.RectExtensions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9549876df73b7e04bac73492fd5b95c4</guid>
+    <fileName>Assets/FastMesh/Scripts/SceneViewText.cs</fileName>
+    <timeStamp>2024-08-20T14:17:24+02:00</timeStamp>
+    <typeFullName>
+      <string>FastMesh_Example.SceneViewText</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>837c468ff2274f94cb0d0ea61c5a5aea</guid>
+    <fileName>Assets/GameFlow/Scripts/ColliderEvents.cs</fileName>
+    <timeStamp>2025-02-19T17:36:08.7972728+01:00</timeStamp>
+    <typeFullName>
+      <string>ColliderEvents</string>
+      <string>ColliderEvents+ColliderEvent</string>
+      <string>ColliderEvents+CollisionEvent</string>
+      <string>ColliderEvents+IncludeExcludeColliders</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f297e0a4a55c91c4688b114f03811c4e</guid>
+    <fileName>Assets/GameFlow/Scripts/ComponentToggler.cs</fileName>
+    <timeStamp>2025-02-16T13:05:54+01:00</timeStamp>
+    <typeFullName>
+      <string>ComponentToggler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e368ad3a49215174883c9474a31c598d</guid>
+    <fileName>Assets/GameFlow/Scripts/ConditionChecker.cs</fileName>
+    <timeStamp>2024-04-02T14:24:51+02:00</timeStamp>
+    <typeFullName>
+      <string>ConditionsChecker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11c40f524f89eb6439169dc8ed23b32a</guid>
+    <fileName>Assets/GameFlow/Scripts/DelayEvents.cs</fileName>
+    <timeStamp>2025-02-19T21:49:02.9681323+01:00</timeStamp>
+    <typeFullName>
+      <string>DelayEvents</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9576ebd90663fcf4eaec4697671e0e83</guid>
+    <fileName>Assets/GameFlow/Scripts/EventToggler.cs</fileName>
+    <timeStamp>2024-04-02T20:55:22+02:00</timeStamp>
+    <typeFullName>
+      <string>EventToggler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb99ebaf9d1455e4d811bdb20f9c9bc4</guid>
+    <fileName>Assets/GameFlow/Scripts/GameObjectToggler.cs</fileName>
+    <timeStamp>2024-04-02T14:24:56+02:00</timeStamp>
+    <typeFullName>
+      <string>GameObjectToggler</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dd7d784ce3eb30b47ba3696a58431381</guid>
+    <fileName>Assets/GameFlow/Scripts/ICallbackEvent.cs</fileName>
+    <timeStamp>2024-05-13T12:02:25+02:00</timeStamp>
+    <typeFullName>
+      <string>ICallbackEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>05689c863ad0d0b40ba8eac4f9901a00</guid>
+    <fileName>Assets/GameFlow/Scripts/InputActionEvents.cs</fileName>
+    <timeStamp>2025-02-16T21:50:39+01:00</timeStamp>
+    <typeFullName>
+      <string>InputActionEvents</string>
+      <string>InputActionEvents+InputEventFloat</string>
+      <string>InputActionEvents+InputEventVector2</string>
+      <string>InputActionEvents+InputEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fb36861b5003f554295547c1b93e73cf</guid>
+    <fileName>Assets/GameFlow/Scripts/KeyboardEvents.cs</fileName>
+    <timeStamp>2025-02-16T21:38:15+01:00</timeStamp>
+    <typeFullName>
+      <string>KeyboardEvents</string>
+      <string>KeyboardEvents+StringEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fd93fee7d7afc684c8af993db35cc4ba</guid>
+    <fileName>Assets/GameFlow/Scripts/PointerEvents.cs</fileName>
+    <timeStamp>2025-02-16T20:25:05+01:00</timeStamp>
+    <typeFullName>
+      <string>PointerEvents</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>56780ec6fd448cc438c0222eb9f7dab8</guid>
+    <fileName>Assets/GameFlow/Scripts/RigidBodyActions.cs</fileName>
+    <timeStamp>2025-02-19T20:30:30.2042922+01:00</timeStamp>
+    <typeFullName>
+      <string>RigidBodyActions</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66fcb15d5e78d4843bb40501ae69f58e</guid>
+    <fileName>Assets/GameFlow/Scripts/SequenceChecker.cs</fileName>
+    <timeStamp>2024-05-13T12:04:56+02:00</timeStamp>
+    <typeFullName>
+      <string>SequenceChecker</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ff1be650fbfc63c44b6b130b87752713</guid>
+    <fileName>Assets/GameFlow/Scripts/Spawner.cs</fileName>
+    <timeStamp>2025-02-19T17:28:14.064237+01:00</timeStamp>
+    <typeFullName>
+      <string>Spawner</string>
+      <string>Spawner+GameObjectEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94dad4001ddcc8d47bab20638c96aca6</guid>
+    <fileName>Assets/GameFlow/Scripts/Timer.cs</fileName>
+    <timeStamp>2025-02-19T20:25:59.0242121+01:00</timeStamp>
+    <typeFullName>
+      <string>Timer</string>
+      <string>Timer+FloatEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5d63e446df5f53b4eae2861693c0b30d</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2025-02-19T22:01:24.2057206+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8890b001c1ba51a448bcee4e71b6a832</guid>
+    <fileName>Assets/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2025-02-19T22:01:24.2225632+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>905c61e3ed8572248b8552e8a09960cb</guid>
+    <fileName>Assets/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2025-02-19T22:01:24.2351617+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9abd2efe479b5984ea936306fbb2d039</guid>
+    <fileName>Assets/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2025-02-19T22:01:24.2462354+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>873f863ebe2425b409e15c65f58cc539</guid>
+    <fileName>Assets/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2025-02-19T22:01:24.2585459+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3cf930c60b1bcc24db177510fc9c1c68</guid>
+    <fileName>Assets/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2025-02-19T22:01:24.2719541+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df6a2a6945f2bdd459f360036853fb7f</guid>
+    <fileName>Assets/EventVisualizer/Editor/PuppyEditor/EditorHelper.cs</fileName>
+    <timeStamp>2020-06-03T12:29:24+02:00</timeStamp>
+    <typeFullName>
+      <string>EventVisualizer.Puppy.EditorHelper</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2933b9c6c31330045878bb93612186db</guid>
+    <fileName>Assets/GameFlow/Scripts/Editor/KeyboardEventsCustomEditor.cs</fileName>
+    <timeStamp>2025-02-16T21:28:53+01:00</timeStamp>
+    <typeFullName>
+      <string>com.zebugames.meantween.unity.KeyboardEventsCustomEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>03e112e9a9f2f964fa9c076be0b89f6f</guid>
+    <fileName>Assets/GameFlow/Scripts/Editor/LaunchEventCustomEditor.cs</fileName>
+    <timeStamp>2025-02-16T21:29:57+01:00</timeStamp>
+    <typeFullName>
+      <string>com.zebugames.meantween.unity.LaunchEventCustomEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a2822a8f4983870499c17f5fd3bd2929</guid>
+    <fileName>Assets/GameFlow/Scripts/Utils/Console.cs</fileName>
+    <timeStamp>2024-05-13T15:20:38+02:00</timeStamp>
+    <typeFullName>
+      <string>Console</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6ee8df0b498dbff44940c72a0ebdc834</guid>
+    <fileName>Assets/GameFlow/Scripts/Utils/LaunchEvent.cs</fileName>
+    <timeStamp>2024-04-16T11:32:20+02:00</timeStamp>
+    <typeFullName>
+      <string>com.zebugames.meantween.unity.LaunchEvent</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f5dfe7075c3bdc4c93c4fd50a8eb5b3</guid>
+    <fileName>Assets/Piloto Studio/Readme/Scripts/Readme.cs</fileName>
+    <timeStamp>2023-08-18T02:58:07+02:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeSystem.Readme</string>
+      <string>ReadmeSystem.Readme+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a0d43d060ea73d478e9bf99e1aac4d0</guid>
+    <fileName>Assets/Piloto Studio/Readme/Scripts/ReadmeBehaviour.cs</fileName>
+    <timeStamp>2023-08-18T02:58:08+02:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeSystem.ReadmeBehaviour</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9952683d217c0ac4c8cb8302c543d457</guid>
+    <fileName>Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeBehaviourEditor.cs</fileName>
+    <timeStamp>2023-08-18T02:58:13+02:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeSystem.Editor.ReadmeBehaviourEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2023-08-18T02:58:05+02:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeSystem.Editor.ReadmeEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>641f2e57c2833a84fb81f070ee1aff64</guid>
+    <fileName>Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeEditorStyles.cs</fileName>
+    <timeStamp>2023-08-18T02:58:09+02:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeEditorStyles</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58ed5c0b72084384db3946f213ae10f4</guid>
+    <fileName>Assets/Piloto Studio/Readme/Scripts/Editor/ReadmeHierarchy.cs</fileName>
+    <timeStamp>2023-08-18T02:58:08+02:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeHierarchy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
